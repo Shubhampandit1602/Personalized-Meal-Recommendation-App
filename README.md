@@ -49,6 +49,9 @@ We implemented a **Tag-based Collaborative Filtering system** that:
 
 📈 **Achieved 97% accuracy** in internal testing by validating dish recommendations post-order.
 
+<img width="497" height="626" alt="image" src="https://github.com/user-attachments/assets/5dbf306b-5d4c-47f2-9cd6-1b9e84ae986d" />
+
+
 ---
 
 ## 🖌️ UI/UX Design (Figma)
